@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo Suite" duration-ms="21272" started-at="2019-03-29T13:29:40 IST" finished-at="2019-03-29T13:30:01 IST">
+    <groups>
+    </groups>
+    <test name="demo test" duration-ms="21272" started-at="2019-03-29T13:29:40 IST" finished-at="2019-03-29T13:30:01 IST">
+      <class name="master">
+        <test-method status="PASS" signature="open_browerser()[pri:0, instance:master@7f9a81e8]" name="open_browerser" duration-ms="21204" started-at="2019-03-29T13:29:40 IST" finished-at="2019-03-29T13:30:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browerser -->
+      </class> <!-- master -->
+    </test> <!-- demo test -->
+  </suite> <!-- Demo Suite -->
+</testng-results>
