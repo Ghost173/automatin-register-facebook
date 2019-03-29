@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo Suite">
+    <test name="demo test">
+        <classes>
+            <class name="master"></class>
+        </classes>
+    </test>
+</suite>
